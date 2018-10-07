@@ -235,7 +235,7 @@ header.masthead p {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(240, 95, 64, 0.9);
+  background: rgba(42, 158, 240, 0.9);
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -305,10 +305,10 @@ header.masthead p {
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: #ee4b28 !important;
+  background-color: #2c71ee !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
-  box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(42, 158, 240, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgba(58, 153, 240, 0.5) !important;
 }
