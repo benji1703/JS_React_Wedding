@@ -1,29 +1,38 @@
 let langs = ['en','fr','he'];
-let langCode = '';
-let langJS = null;
+let langCode;
 
-
-var translate = function (jsdata)
+let translate = function (jsdata)
 {
-    $("[tkey]").each (function (index)
+    $("[tkey]").each (function ()
     {
-        var strTr = jsdata [$(this).attr ('tkey')];
+        let strTr = jsdata [$(this).attr ('tkey')];
         $(this).html (strTr);
     });
+};
+
+function changeToHeb() {
+    localStorage.lang = "he";
+    location.reload();
+};
+
+function changeToEn() {
+    localStorage.lang = "en";
+    location.reload();
 }
 
+function changeToFr() {
+    localStorage.lang = "fr";
+    location.reload();
+}
 
-langCode = navigator.language.substr (0, 2);
+langCode = localStorage.getItem('lang') || navigator.language.substr (0, 2);
 
-console.log(langCode);
 
 if (langs.includes(langCode)) {
     $.getJSON('lang/' + langCode + '.json', translate);
-    console.log("New");
 }
 else {
     $.getJSON('lang/en.json', translate);
-    console.log("Bla");
 }
 
 
