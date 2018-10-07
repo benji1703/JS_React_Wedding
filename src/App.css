@@ -45,10 +45,11 @@ body {
 }
 
 .Countdown-col-element{
-  display: inline-block;
+  /*display: inline-block;*/
   margin: 0 20px;
   display: flex;
   flex-direction: column;
+  padding: 0 !important;
 }
 
 .Countdown-col-element strong{

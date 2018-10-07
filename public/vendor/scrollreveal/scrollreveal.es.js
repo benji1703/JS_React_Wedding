@@ -44,7 +44,7 @@ var defaults = {
 	afterReveal: function afterReveal() {},
 	beforeReset: function beforeReset() {},
 	beforeReveal: function beforeReveal() {}
-}
+};
 
 function failure() {
 	var root = document.documentElement;
@@ -77,7 +77,7 @@ function success() {
 	}
 }
 
-var mount = { success: success, failure: failure }
+var mount = { success: success, failure: failure };
 
 function isObject(x) {
 	return (
@@ -331,10 +331,10 @@ function style(element) {
 		switch (unit) {
 			case 'em':
 				distance = parseInt(computed.fontSize) * value;
-				break
+				break;
 			case 'px':
 				distance = value;
-				break
+				break;
 			case '%':
 				/**
 				 * Here we use `getBoundingClientRect` instead of
@@ -350,7 +350,7 @@ function style(element) {
 					axis === 'Y'
 						? element.node.getBoundingClientRect().height * value / 100
 						: element.node.getBoundingClientRect().width * value / 100;
-				break
+				break;
 			default:
 				throw new RangeError('Unrecognized or missing distance unit.')
 		}
@@ -931,7 +931,7 @@ function sync() {
 }
 
 var polyfill = function (x) { return (x > 0) - (x < 0) || +x; };
-var mathSign = Math.sign || polyfill
+var mathSign = Math.sign || polyfill;
 
 function getGeometry(target, isContainer) {
 	/**
@@ -953,7 +953,7 @@ function getGeometry(target, isContainer) {
 			offsetLeft += node.offsetLeft;
 		}
 		node = node.offsetParent;
-	} while (node)
+	} while (node);
 
 	return {
 		bounds: {
