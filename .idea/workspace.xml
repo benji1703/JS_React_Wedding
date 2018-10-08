@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="45fb2e3b-cee6-4157-93f9-f335b6d85575" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/lang/en.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/lang/en.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/lang/fr.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/lang/fr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/lang/il.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/lang/il.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,15 +50,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="230" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="HTML" value="237" />
+          <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="230" />
-          <entry key="txt" value="12" />
+          <entry key="html" value="237" />
+          <entry key="txt" value="14" />
         </counts>
       </usages-collector>
     </session>
@@ -111,8 +114,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="313" column="43" selection-start-line="313" selection-start-column="43" selection-end-line="313" selection-end-column="43" />
+            <state relative-caret-position="229">
+              <caret line="65" column="37" lean-forward="true" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
               <folding>
                 <element signature="e#13657#13663#0" expanded="true" />
               </folding>
@@ -220,6 +223,7 @@
       <find>&lt;i class</find>
       <find>sect</find>
       <find>section</find>
+      <find>nav-link</find>
     </findStrings>
     <replaceStrings>
       <replace>99917A</replace>
@@ -349,7 +353,7 @@
       <updated>1538914727664</updated>
       <workItem from="1538914729386" duration="4149000" />
       <workItem from="1538941449580" duration="7709000" />
-      <workItem from="1538978074485" duration="2402000" />
+      <workItem from="1538978074485" duration="4381000" />
     </task>
     <task id="LOCAL-00001" summary="v0.2">
       <created>1538929255884</created>
@@ -386,29 +390,43 @@
       <option name="project" value="LOCAL" />
       <updated>1538983792546</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="v0.8">
+      <created>1538983850779</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538983850779</updated>
+    </task>
+    <task id="LOCAL-00007" summary="v0.9">
+      <created>1538985941957</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1538985941957</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17398000" />
+    <option name="totallyTimeSpent" value="19377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1208" y="69" width="1216" height="1896" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49923897" visible="true" weight="0.401528" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49923897" visible="true" weight="0.401528" />
       <window_info id="Structure" order="1" sideWeight="0.50076103" side_tool="true" weight="0.24938272" />
       <window_info id="Favorites" order="2" sideWeight="0.50076103" side_tool="true" weight="0.24938272" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32951945" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32951945" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19336385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32837528" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32890704" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.5583524" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32879376" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -458,7 +476,9 @@
     <MESSAGE value="v0.5" />
     <MESSAGE value="v0.6" />
     <MESSAGE value="v0.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.7" />
+    <MESSAGE value="v0.8" />
+    <MESSAGE value="v0.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.9" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/manifest.json">
@@ -606,8 +626,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="313" column="43" selection-start-line="313" selection-start-column="43" selection-end-line="313" selection-end-column="43" />
+        <state relative-caret-position="229">
+          <caret line="65" column="37" lean-forward="true" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
           <folding>
             <element signature="e#13657#13663#0" expanded="true" />
           </folding>
