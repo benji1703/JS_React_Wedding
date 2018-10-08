@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45fb2e3b-cee6-4157-93f9-f335b6d85575" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/lang/en.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/lang/en.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/lang/fr.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/lang/fr.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img/lang/il.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/lang/il.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/creative.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/creative.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,9 +20,10 @@
     <session id="267897322">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -50,15 +51,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="237" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="CSS" value="11" />
+          <entry key="HTML" value="240" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="237" />
-          <entry key="txt" value="14" />
+          <entry key="css" value="11" />
+          <entry key="html" value="240" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
     </session>
@@ -114,11 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="65" column="37" lean-forward="true" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
-              <folding>
-                <element signature="e#13657#13663#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1146">
+              <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
             </state>
           </provider>
         </entry>
@@ -135,35 +135,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1882">
+            <state relative-caret-position="23">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/lang/en.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/lang/fr.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/lang/he.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -176,29 +149,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1242">
-              <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" selection-start-line="6" selection-end-line="7" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1133">
+              <caret line="322" column="21" selection-start-line="322" selection-start-column="21" selection-end-line="322" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -241,7 +193,6 @@
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
-        <option value="$PROJECT_DIR$/public/css/creative.css" />
         <option value="$PROJECT_DIR$/public/fr.json" />
         <option value="$PROJECT_DIR$/public/en.json" />
         <option value="$PROJECT_DIR$/public/he.json" />
@@ -251,6 +202,7 @@
         <option value="$PROJECT_DIR$/public/lang/fr.json" />
         <option value="$PROJECT_DIR$/public/lang/en.json" />
         <option value="$PROJECT_DIR$/public/lang/he.json" />
+        <option value="$PROJECT_DIR$/public/css/creative.css" />
         <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
@@ -283,6 +235,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -290,11 +243,21 @@
               <item name="JS_React_Wedding" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS_React_Wedding" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JS_React_Wedding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_React_Wedding" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS_React_Wedding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_React_Wedding" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,7 +316,8 @@
       <updated>1538914727664</updated>
       <workItem from="1538914729386" duration="4149000" />
       <workItem from="1538941449580" duration="7709000" />
-      <workItem from="1538978074485" duration="4381000" />
+      <workItem from="1538978074485" duration="4407000" />
+      <workItem from="1538992915095" duration="542000" />
     </task>
     <task id="LOCAL-00001" summary="v0.2">
       <created>1538929255884</created>
@@ -404,28 +368,35 @@
       <option name="project" value="LOCAL" />
       <updated>1538985941957</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="v0.10">
+      <created>1538987971307</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1538987971307</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19377000" />
+    <option name="totallyTimeSpent" value="19945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1208" y="69" width="1216" height="1896" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49923897" visible="true" weight="0.401528" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49923897" visible="true" weight="0.401528" />
       <window_info id="Structure" order="1" sideWeight="0.50076103" side_tool="true" weight="0.24938272" />
       <window_info id="Favorites" order="2" sideWeight="0.50076103" side_tool="true" weight="0.24938272" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32951945" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19336385" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19336385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.5583524" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.5583524" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32879376" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -478,7 +449,8 @@
     <MESSAGE value="v0.7" />
     <MESSAGE value="v0.8" />
     <MESSAGE value="v0.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.9" />
+    <MESSAGE value="v0.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.10" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/manifest.json">
@@ -562,6 +534,20 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" />
     <entry file="file://$PROJECT_DIR$/jquery.i18n/src/languages/he.js" />
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lang/en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/lang/fr.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -569,13 +555,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/creative.css">
+    <entry file="file://$PROJECT_DIR$/public/lang/he.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+        <state relative-caret-position="69">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -596,19 +579,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/lang/he.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/lang/en.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/lang/setLanguage.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -617,20 +589,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
+    <entry file="file://$PROJECT_DIR$/public/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1882">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="1133">
+          <caret line="322" column="21" selection-start-line="322" selection-start-column="21" selection-end-line="322" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="65" column="37" lean-forward="true" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
-          <folding>
-            <element signature="e#13657#13663#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1146">
+          <caret line="340" lean-forward="true" selection-start-line="340" selection-end-line="340" />
         </state>
       </provider>
     </entry>

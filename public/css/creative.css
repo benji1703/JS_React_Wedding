@@ -318,3 +318,7 @@ header.masthead p {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(42, 158, 240, 0.5) !important;
   box-shadow: 0 0 0 0.2rem rgba(58, 153, 240, 0.5) !important;
 }
+
+a.nav-link-img {
+  border-radius: 50%;
+}
