@@ -13,8 +13,7 @@ let translate = function (jsdata)
 function changeToHeb() {
     localStorage.lang = "he";
     location.reload();
-};
-
+}
 function changeToEn() {
     localStorage.lang = "en";
     location.reload();
