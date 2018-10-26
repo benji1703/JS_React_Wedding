@@ -4,10 +4,7 @@
     <list default="true" id="45fb2e3b-cee6-4157-93f9-f335b6d85575" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/lang/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/lang/en.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/lang/fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/lang/fr.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/lang/he.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/lang/he.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/lang/setLanguage.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/lang/setLanguage.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -80,24 +77,25 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="73" />
-          <entry key="html" value="625" />
+          <entry key="html" value="1111" />
           <entry key="js" value="219" />
-          <entry key="json" value="720" />
-          <entry key="txt" value="3" />
+          <entry key="json" value="968" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="73" />
-          <entry key="HTML" value="625" />
-          <entry key="JSON" value="720" />
+          <entry key="HTML" value="1111" />
+          <entry key="JSON" value="968" />
           <entry key="JavaScript" value="219" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
+          <entry key="html" value="1" />
           <entry key="jpg" value="2" />
           <entry key="js" value="6" />
           <entry key="json" value="5" />
@@ -106,6 +104,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="2" />
+          <entry key="HTML" value="1" />
           <entry key="Image" value="2" />
           <entry key="JSON" value="5" />
           <entry key="JavaScript" value="5" />
@@ -121,17 +120,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="106" column="39" selection-start-line="106" selection-start-column="39" selection-end-line="106" selection-end-column="39" />
+            <state relative-caret-position="381">
+              <caret line="117" column="64" selection-start-line="117" selection-start-column="64" selection-end-line="117" selection-end-column="64" />
               <folding>
-                <element signature="n#div#3;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" />
-                <marker date="1540500391000" expanded="true" signature="423:864" ph="..." />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <marker date="1540539240979" expanded="true" signature="459:920" ph="..." />
               </folding>
             </state>
           </provider>
@@ -159,7 +160,7 @@
         <entry file="file://$PROJECT_DIR$/public/lang/en.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -168,16 +169,16 @@
         <entry file="file://$PROJECT_DIR$/public/lang/fr.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="28" />
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/lang/he.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="188">
+              <caret line="11" column="151" selection-start-line="11" selection-start-column="151" selection-end-line="11" selection-end-column="151" />
             </state>
           </provider>
         </entry>
@@ -222,13 +223,26 @@
       <find>section</find>
       <find>nav-link</find>
       <find>Sturdy Templates</find>
-      <find>hands-helpin</find>
       <find>fa-paper-plane</find>
       <find>fa-gem</find>
+      <find>At Your Service</find>
+      <find>header.jp</find>
+      <find>היכרות</find>
+      <find>howwe</find>
+      <find>ProposalModal</find>
+      <find>Proposa</find>
+      <find>Proposal</find>
+      <find>auto</find>
+      <find>modal</find>
+      <find>hands-helpin</find>
+      <find>modal-title</find>
+      <find>At</find>
+      <find>&lt;br&gt;&lt;br&gt;&lt;br&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>99917A</replace>
       <replace>fa-hands-helping</replace>
+      <replace>&lt;br&gt;&lt;br&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -252,9 +266,9 @@
         <option value="$PROJECT_DIR$/public/lang/setLanguage.js" />
         <option value="$PROJECT_DIR$/public/css/creative.css" />
         <option value="$PROJECT_DIR$/public/lang/fr.json" />
-        <option value="$PROJECT_DIR$/public/lang/he.json" />
         <option value="$PROJECT_DIR$/public/lang/en.json" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/lang/he.json" />
       </list>
     </option>
   </component>
@@ -274,10 +288,11 @@
       <path value="$PROJECT_DIR$/public/vendor/fontawesome-free/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1297" />
-    <option name="height" value="1398" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2647" />
+    <option name="y" value="-32" />
+    <option name="width" value="2580" />
+    <option name="height" value="1410" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -369,7 +384,7 @@
       <workItem from="1538978074485" duration="4407000" />
       <workItem from="1538992915095" duration="542000" />
       <workItem from="1540063314757" duration="4133000" />
-      <workItem from="1540495855324" duration="4532000" />
+      <workItem from="1540495855324" duration="10539000" />
     </task>
     <task id="LOCAL-00001" summary="v0.2">
       <created>1538929255884</created>
@@ -434,17 +449,31 @@
       <option name="project" value="LOCAL" />
       <updated>1540067970152</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="v0.14">
+      <created>1540500471303</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540500471303</updated>
+    </task>
+    <task id="LOCAL-00011" summary="v0.15">
+      <created>1540504674090</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540504674090</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29449000" />
+    <option name="totallyTimeSpent" value="35456000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1037" height="1118" extended-state="0" />
+    <frame x="2553" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49923897" visible="true" weight="0.29" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49923897" visible="true" weight="0.14320987" />
       <window_info id="Structure" order="1" sideWeight="0.50076103" side_tool="true" weight="0.24938272" />
       <window_info id="Favorites" order="2" sideWeight="0.50076103" side_tool="true" weight="0.24938272" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -455,8 +484,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.2264151" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32521185" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.22373949" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32457983" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -511,7 +540,9 @@
     <MESSAGE value="v0.10" />
     <MESSAGE value="v0.11" />
     <MESSAGE value="v0.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.13" />
+    <MESSAGE value="v0.14" />
+    <MESSAGE value="v0.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.15" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/manifest.json">
@@ -640,10 +671,17 @@
     <entry file="file://$PROJECT_DIR$/public/img/savethedate.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/lang/he.json">
+    <entry file="file://$PROJECT_DIR$/public/lang/fr.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="138">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lang/en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -651,20 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/lang/fr.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/lang/en.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -677,15 +701,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="106" column="39" selection-start-line="106" selection-start-column="39" selection-end-line="106" selection-end-column="39" />
+        <state relative-caret-position="381">
+          <caret line="117" column="64" selection-start-line="117" selection-start-column="64" selection-end-line="117" selection-end-column="64" />
           <folding>
-            <element signature="n#div#3;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <marker date="1540500391000" expanded="true" signature="423:864" ph="..." />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <marker date="1540539240979" expanded="true" signature="459:920" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lang/he.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="11" column="151" selection-start-line="11" selection-start-column="151" selection-end-line="11" selection-end-column="151" />
         </state>
       </provider>
     </entry>
