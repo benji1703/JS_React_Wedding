@@ -67,29 +67,30 @@
     <session id="-1702134578">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="73" />
-          <entry key="html" value="1111" />
+          <entry key="html" value="1357" />
           <entry key="js" value="219" />
-          <entry key="json" value="968" />
-          <entry key="txt" value="6" />
+          <entry key="json" value="998" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="73" />
-          <entry key="HTML" value="1111" />
-          <entry key="JSON" value="968" />
+          <entry key="HTML" value="1357" />
+          <entry key="JSON" value="998" />
           <entry key="JavaScript" value="219" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -98,7 +99,7 @@
           <entry key="html" value="1" />
           <entry key="jpg" value="2" />
           <entry key="js" value="6" />
-          <entry key="json" value="5" />
+          <entry key="json" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -106,7 +107,7 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="2" />
-          <entry key="JSON" value="5" />
+          <entry key="JSON" value="6" />
           <entry key="JavaScript" value="5" />
           <entry key="Scratch" value="1" />
         </counts>
@@ -120,22 +121,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="117" column="64" selection-start-line="117" selection-start-column="64" selection-end-line="117" selection-end-column="64" />
+            <state relative-caret-position="354">
+              <caret line="162" column="40" selection-start-line="162" selection-start-column="40" selection-end-line="162" selection-end-column="40" />
               <folding>
-                <element signature="n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#36555#36562#1" expanded="true" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-                <marker date="1540539240979" expanded="true" signature="459:920" ph="..." />
+                <marker date="1540657961660" expanded="true" signature="459:920" ph="..." />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -150,8 +157,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/lang/setLanguage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="759">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -174,11 +181,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/lang/he.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="11" column="151" selection-start-line="11" selection-start-column="151" selection-end-line="11" selection-end-column="151" />
+            <state relative-caret-position="257">
+              <caret line="14" column="609" selection-start-line="14" selection-start-column="609" selection-end-line="14" selection-end-column="609" />
             </state>
           </provider>
         </entry>
@@ -238,6 +245,8 @@
       <find>modal-title</find>
       <find>At</find>
       <find>&lt;br&gt;&lt;br&gt;&lt;br&gt;</find>
+      <find>הייתה בליבו</find>
+      <find>ModalHowWeMet</find>
     </findStrings>
     <replaceStrings>
       <replace>99917A</replace>
@@ -267,8 +276,8 @@
         <option value="$PROJECT_DIR$/public/css/creative.css" />
         <option value="$PROJECT_DIR$/public/lang/fr.json" />
         <option value="$PROJECT_DIR$/public/lang/en.json" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/lang/he.json" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -289,8 +298,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2647" />
-    <option name="y" value="-32" />
+    <option name="x" value="185" />
+    <option name="y" value="518" />
     <option name="width" value="2580" />
     <option name="height" value="1410" />
   </component>
@@ -306,17 +315,6 @@
             <path>
               <item name="JS_React_Wedding" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS_React_Wedding" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS_React_Wedding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS_React_Wedding" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS_React_Wedding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS_React_Wedding" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -384,7 +382,8 @@
       <workItem from="1538978074485" duration="4407000" />
       <workItem from="1538992915095" duration="542000" />
       <workItem from="1540063314757" duration="4133000" />
-      <workItem from="1540495855324" duration="10539000" />
+      <workItem from="1540495855324" duration="11178000" />
+      <workItem from="1540654358982" duration="2795000" />
     </task>
     <task id="LOCAL-00001" summary="v0.2">
       <created>1538929255884</created>
@@ -463,14 +462,28 @@
       <option name="project" value="LOCAL" />
       <updated>1540504674090</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="v0.16">
+      <created>1540539709849</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1540539709849</updated>
+    </task>
+    <task id="LOCAL-00013" summary="v0.17">
+      <created>1540540137065</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540540137065</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35456000" />
+    <option name="totallyTimeSpent" value="38890000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2553" y="-7" width="2062" height="1126" extended-state="6" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49923897" visible="true" weight="0.14320987" />
@@ -478,14 +491,14 @@
       <window_info id="Favorites" order="2" sideWeight="0.50076103" side_tool="true" weight="0.24938272" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925585" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19336385" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19327731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.22373949" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32457983" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32457983" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -542,7 +555,9 @@
     <MESSAGE value="v0.13" />
     <MESSAGE value="v0.14" />
     <MESSAGE value="v0.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.15" />
+    <MESSAGE value="v0.16" />
+    <MESSAGE value="v0.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.17" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/manifest.json">
@@ -630,9 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -654,6 +666,7 @@
         <state relative-caret-position="-7" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/savethedate.jpg" />
     <entry file="file://$PROJECT_DIR$/public/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -668,8 +681,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/img/savethedate.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/vendor/fontawesome-free/css/fontawesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="22389" selection-start-line="4" selection-start-column="22377" selection-end-line="4" selection-end-column="22389" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lang/setLanguage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lang/he.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="14" column="609" selection-start-line="14" selection-start-column="609" selection-end-line="14" selection-end-column="609" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/lang/fr.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -685,40 +719,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/lang/setLanguage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/vendor/fontawesome-free/css/fontawesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="22389" selection-start-line="4" selection-start-column="22377" selection-end-line="4" selection-end-column="22389" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="117" column="64" selection-start-line="117" selection-start-column="64" selection-end-line="117" selection-end-column="64" />
+        <state relative-caret-position="354">
+          <caret line="162" column="40" selection-start-line="162" selection-start-column="40" selection-end-line="162" selection-end-column="40" />
           <folding>
-            <element signature="n#div#2;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#36555#36562#1" expanded="true" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-            <marker date="1540539240979" expanded="true" signature="459:920" ph="..." />
+            <marker date="1540657961660" expanded="true" signature="459:920" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/lang/he.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="11" column="151" selection-start-line="11" selection-start-column="151" selection-end-line="11" selection-end-column="151" />
         </state>
       </provider>
     </entry>

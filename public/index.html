@@ -85,8 +85,10 @@
                         </h1>
                         <hr>
                     </div>
-                    <div class="col-lg-8 mx-auto">
-                        <p class="text-faded mb-5" dir="auto" tkey="Quote"></p>
+                    <div class="col-lg-14 mx-auto">
+                        <h3 class="p-3 mb-5 rounded" dir="auto" tkey="Quote"></h3>
+                        <hr class="light my-4">
+                        <br>
                         <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
                     </div>
                 </div>
@@ -114,7 +116,7 @@
         <section id="services">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12 text-center">
+                    <div class="col text-center">
                         <h2 class="section-heading" tkey="About_Us"></h2>
                         <hr class="my-4">
                     </div>
@@ -127,25 +129,34 @@
                             <div class="service-box mt-5 mx-auto">
                                 <i class="fas fa-4x fa-hands-helping text-primary mb-3 sr-icon-1"></i>
                                 <h3 class="mb-3">היכרות</h3>
-                                <p class="text-muted mb-0">Using Modal :)</p>
+                                <p class="text-muted mb-0">אז איך היכרנו?</p>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-3 col-md-6 text-center">
+                    <div class="col-lg-2 col-md-6 text-center">
+                        <a href="" data-toggle="modal" data-target="#ModalHowWeMet2">
+                            <div class="service-box mt-5 mx-auto">
+                                <i class="fas fa-4x fa-hands-helping text-primary mb-3 sr-icon-1"></i>
+                                <h3 class="mb-3">היכרות חלק ב</h3>
+                                <p class="text-muted mb-0">אז איך היכרנו?</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-6 text-center">
                         <div class="service-box mt-5 mx-auto">
                             <a href="" data-toggle="modal" data-target="#ModalBase">
                                 <i class="fas fa-4x fa-kiss-wink-heart text-primary mb-3 sr-icon-2"></i>
                                 <h3 class="mb-3">ביסוס מערכת היחסים</h3>
-                                <p class="text-muted mb-0">You can use this theme as is, or you can make changes!</p>
+                                <p class="text-muted mb-0">מעניין פה גם</p>
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 text-center">
+                    <div class="col-lg-2 col-md-6 text-center">
                         <a href="" data-toggle="modal" data-target="#KidModal">
                             <div class="service-box mt-5 mx-auto">
                                 <i class="fas fa-4x fa-child text-primary mb-3 sr-icon-3"></i>
                                 <h3 class="mb-3">נכד ראשון</h3>
-                                <p class="text-muted mb-0">We update dependencies to keep things fresh.</p>
+                                <p class="text-muted mb-0">קוקו</p>
                             </div>
                         </a>
                     </div>
@@ -154,7 +165,7 @@
                             <div class="service-box mt-5 mx-auto">
                                 <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-4"></i>
                                 <h3 class="mb-3">ההצעה</h3>
-                                <p class="text-muted mb-0">You have to make your websites with love these days!</p>
+                                <p class="text-muted mb-0">איזה טבעת יא ווארדי</p>
                             </div>
                         </a>
                     </div>
@@ -664,8 +675,27 @@
                     <div class="modal-body" tkey="HowWeMetModal" dir="auto">
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal" tkey="Close"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal How We Met -->
+        <div class="modal fade" id="ModalHowWeMet2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle"
+             aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="ModalHowWeMetTitle2" tkey="HowWeMet"></h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body" tkey="HowWeMetModal2" dir="auto">
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal" tkey="Close"></button>
                     </div>
                 </div>
             </div>
@@ -685,8 +715,7 @@
                     <div class="modal-body" tkey="BisousModal" dir="auto">
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal" tkey="Close"></button>
                     </div>
                 </div>
             </div>
@@ -706,8 +735,7 @@
                     <div class="modal-body" tkey="FirstGrandChildModal" dir="auto">
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal" tkey="Close"></button>
                     </div>
                 </div>
             </div>
