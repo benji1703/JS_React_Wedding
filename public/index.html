@@ -45,19 +45,16 @@
                             <a class="nav-link js-scroll-trigger" href="#about" tkey="About"></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#services" tkey="Services"></a>
+                            <a class="nav-link js-scroll-trigger" href="#services" tkey="MoreAboutUs"></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+                            <a class="nav-link js-scroll-trigger" href="#save-the-date" tkey="SaveTheDate"></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+                            <a class="nav-link js-scroll-trigger" href="#map" tkey="Map"></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#map">Map</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#save-the-date">Save The Date</a>
+                            <a class="nav-link js-scroll-trigger" href="#contact" tkey="Contact"> </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link nav-link-img js-scroll-trigger" onclick="changeToHeb()"> <img
@@ -76,6 +73,8 @@
             </div>
         </nav>
 
+        <!-- Body of HTML -->
+
         <header class="masthead text-center text-white d-flex">
             <div class="container my-auto">
                 <div class="row">
@@ -89,7 +88,7 @@
                         <h3 class="p-3 mb-5 rounded" dir="auto" tkey="Quote"></h3>
                         <hr class="light my-4">
                         <br>
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about" tkey="LetsStart"></a>
                     </div>
                 </div>
             </div>
@@ -103,11 +102,14 @@
                         <hr class="light my-4">
                         <img class="img-fluid" src="img/portfolio/thumbnails/31.jpeg"/>
                         <hr class="light my-4">
-                        <p class="text-faded" dir="auto" tkey="Preface1"></p>
-                        <p class="text-faded" dir="auto" tkey="Preface2"></p>
-                        <p class="text-faded" dir="auto" tkey="Preface3"></p>
-                        <hr class="light my-4">
-                        <a class="btn btn-light btn-xl js-scroll-trigger" dir="auto" href="#services">נמשיך?</a>
+                        <div class="shadow-lg p-3 mb-5 bg-white rounded">
+                            <br>
+                            <p class="mb-5" dir="auto" tkey="Preface1"></p>
+                            <p class="mb-5" dir="auto" tkey="Preface2"></p>
+                            <p class="mb-5" dir="auto" tkey="Preface3"></p>
+                            <hr class="light my-4">
+                            <a class="btn btn-light btn-xl js-scroll-trigger" dir="auto" href="#services">נמשיך?</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -124,7 +126,7 @@
             </div>
             <div class="container" dir="auto">
                 <div class="row">
-                    <div class="col-lg-3 col-md-6 text-center">
+                    <div class="col-lg col-md-6 text-center">
                         <a href="" data-toggle="modal" data-target="#ModalHowWeMet">
                             <div class="service-box mt-5 mx-auto">
                                 <i class="fas fa-4x fa-hands-helping text-primary mb-3 sr-icon-1"></i>
@@ -133,16 +135,16 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-2 col-md-6 text-center">
+                    <div class="col-lg col-md-6 text-center">
                         <a href="" data-toggle="modal" data-target="#ModalHowWeMet2">
                             <div class="service-box mt-5 mx-auto">
-                                <i class="fas fa-4x fa-hands-helping text-primary mb-3 sr-icon-1"></i>
+                                <i class="fas fa-4x fa-comments text-primary mb-3 sr-icon-1"></i>
                                 <h3 class="mb-3">היכרות חלק ב</h3>
                                 <p class="text-muted mb-0">אז איך היכרנו?</p>
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-2 col-md-6 text-center">
+                    <div class="col-lg col-md-6 text-center">
                         <div class="service-box mt-5 mx-auto">
                             <a href="" data-toggle="modal" data-target="#ModalBase">
                                 <i class="fas fa-4x fa-kiss-wink-heart text-primary mb-3 sr-icon-2"></i>
@@ -151,7 +153,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-6 text-center">
+                    <div class="col-lg col-md-6 text-center">
                         <a href="" data-toggle="modal" data-target="#KidModal">
                             <div class="service-box mt-5 mx-auto">
                                 <i class="fas fa-4x fa-child text-primary mb-3 sr-icon-3"></i>
@@ -160,7 +162,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-3 col-md-6 text-center">
+                    <div class="col-lg col-md-6 text-center">
                         <a href="" data-toggle="modal" data-target="#ModalProposal">
                             <div class="service-box mt-5 mx-auto">
                                 <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-4"></i>
@@ -181,12 +183,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/1.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -196,12 +193,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/2.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -211,12 +203,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/3.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -226,12 +213,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/4.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -241,12 +223,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/5.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -256,12 +233,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/6.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -271,12 +243,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/7.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -286,12 +253,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/8.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -300,29 +262,13 @@
             </div>
         </section>
 
-        <section id="contact">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 mx-auto text-center">
-                        <h2 class="section-heading">Let's Get In Touch!</h2>
-                        <hr class="my-4">
-                        <p class="mb-5">Ready to start your next project with us? That's great! Give us a call or send us an
-                                        email and we will get back to you as soon as possible!</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 ml-auto text-center">
-                        <i class="fas fa-phone fa-3x mb-3 sr-contact-1"></i>
-                        <p>(+972) 05 86 85 86 86</p>
-                    </div>
-                    <div class="col-lg-4 mr-auto text-center">
-                        <i class="fas fa-envelope fa-3x mb-3 sr-contact-2"></i>
-                        <p>
-                            <a href="mailto:benjiar@gmail.com,keshet94@gmail.com">Email Us</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
+        <section id="save-the-date" class="save-the-date">
+
+            <h2 class="section-heading">Save the date!</h2>
+            <h1 class="section-heading-date">07.04.19</h1>
+
+            <section id="root">
+            </section>
         </section>
 
         <section class="p-0" id="second-portfolio">
@@ -333,12 +279,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/9.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -348,12 +289,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/10.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -363,12 +299,6 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/11.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
                                 </div>
                             </div>
                         </a>
@@ -378,12 +308,6 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/12.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
                                 </div>
                             </div>
                         </a>
@@ -393,12 +317,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/13.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -408,12 +327,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/14.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -423,12 +337,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/15.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -438,12 +347,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/16.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -458,14 +362,30 @@
                     style="border:0; overflow: hidden" allowfullscreen="" width="100%" height="750" frameborder="0"></iframe>
         </section>
 
-
-        <section id="save-the-date" class="save-the-date">
-
-            <h2 class="section-heading">Save the date!</h2>
-            <h1 class="section-heading-date">07.04.19</h1>
-
-            <section id="root">
-            </section>
+        <section id="contact">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto text-center">
+                        <h2 class="section-heading">אז בואו נהיה בקשר</h2>
+                        <hr class="my-4">
+                        <p class="mb-5" dir="auto">אם יש בעיות וזה - אז בלה בלה בלה?</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 ml-auto text-center">
+                        <a href="tel:+972586858686">
+                            <i class="fas fa-phone fa-3x mb-3 sr-contact-1"></i>
+                            <p>(+972) 586 85 86 86</p>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 mr-auto text-center">
+                        <a href="mailto:benjiar@gmail.com,keshet94@gmail.com">
+                            <i class="fas fa-envelope fa-3x mb-3 sr-contact-2"></i>
+                            <p>Email Us</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <section class="p-0" id="third-portfolio">
@@ -476,12 +396,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/17.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -491,12 +406,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/18.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -506,12 +416,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/19.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -521,12 +426,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/20.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -536,12 +436,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/21.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -551,12 +446,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/22.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -566,12 +456,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/23.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -581,12 +466,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/24.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -600,12 +480,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/25.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -615,12 +490,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/26.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -630,12 +500,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/27.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -645,12 +510,7 @@
                             <img class="img-fluid" src="img/portfolio/thumbnails/29.jpeg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        Category
-                                    </div>
-                                    <div class="project-name">
-                                        Project Name
-                                    </div>
+
                                 </div>
                             </div>
                         </a>
@@ -675,7 +535,14 @@
                     <div class="modal-body" tkey="HowWeMetModal" dir="auto">
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal" tkey="Close"></button>
+                        <button type="button" class="btn btn-primary mr-auto"
+                                onclick="showModal('ModalHowWeMet2')"tkey="Next">
+                        </button>
+
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal"
+                                tkey="Close">
+                        </button>
+
                     </div>
                 </div>
             </div>
@@ -695,6 +562,9 @@
                     <div class="modal-body" tkey="HowWeMetModal2" dir="auto">
                     </div>
                     <div class="modal-footer">
+                        <button type="button" class="btn btn-primary mr-auto"
+                                onclick="showModal('ModalBase')"tkey="Next">
+                        </button>
                         <button type="button" class="btn btn-secondary" data-dismiss="modal" tkey="Close"></button>
                     </div>
                 </div>
@@ -715,6 +585,9 @@
                     <div class="modal-body" tkey="BisousModal" dir="auto">
                     </div>
                     <div class="modal-footer">
+                        <button type="button" class="btn btn-primary mr-auto"
+                                onclick="showModal('KidModal')"tkey="Next">
+                        </button>
                         <button type="button" class="btn btn-secondary" data-dismiss="modal" tkey="Close"></button>
                     </div>
                 </div>
@@ -735,6 +608,9 @@
                     <div class="modal-body" tkey="FirstGrandChildModal" dir="auto">
                     </div>
                     <div class="modal-footer">
+                        <button type="button" class="btn btn-primary mr-auto"
+                                onclick="showModal('ModalProposal')"tkey="Next">
+                        </button>
                         <button type="button" class="btn btn-secondary" data-dismiss="modal" tkey="Close"></button>
                     </div>
                 </div>
@@ -777,5 +653,11 @@
 
     <script src="lang/setLanguage.js"></script>
 
+    <script>
+        function showModal(id) {
+            $(".modal").modal('hide');
+            $("#" + id).modal();
+        }
+    </script>
 
 </html>

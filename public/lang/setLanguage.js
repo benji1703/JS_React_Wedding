@@ -26,12 +26,11 @@ function changeToFr() {
 
 langCode = localStorage.getItem('lang') || navigator.language.substr (0, 2);
 
-
 if (langs.includes(langCode)) {
     $.getJSON('lang/' + langCode + '.json', translate);
 }
 else {
-    $.getJSON('lang/en.json', translate);
+    $.getJSON('lang/he.json', translate);
 }
 
 
