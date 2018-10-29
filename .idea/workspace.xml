@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45fb2e3b-cee6-4157-93f9-f335b6d85575" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/cal/Keshet_and_Benjis_Wedding.ics" beforeDir="false" afterPath="$PROJECT_DIR$/public/cal/Keshet_and_Benjis_Wedding.ics" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/creative.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/creative.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -78,7 +76,7 @@
           <entry key="HTML" value="942" />
           <entry key="JSON" value="173" />
           <entry key="JavaScript" value="8" />
-          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="PLAIN_TEXT" value="29" />
           <entry key="SCSS" value="39" />
         </counts>
       </usages-collector>
@@ -91,7 +89,7 @@
           <entry key="js" value="8" />
           <entry key="json" value="173" />
           <entry key="scss" value="39" />
-          <entry key="txt" value="24" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -180,8 +178,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+            <state relative-caret-position="191">
+              <caret line="38" column="54" selection-end-line="678" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -675,16 +673,24 @@
       <option name="project" value="LOCAL" />
       <updated>1540797925090</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="v0.31">
+      <created>1540832349887</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1540832349887</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58517000" />
+    <option name="totallyTimeSpent" value="58918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4927798" visible="true" weight="0.21221696" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4927798" visible="true" weight="0.21221696" />
       <window_info id="Structure" order="1" sideWeight="0.5072202" side_tool="true" weight="0.23122677" />
       <window_info id="Favorites" order="2" sideWeight="0.50076103" side_tool="true" weight="0.24938272" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -695,7 +701,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.22211155" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.22211155" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32370517" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -759,7 +765,6 @@
       <path value="$PROJECT_DIR$/jquery.i18n" />
       <path value="$PROJECT_DIR$/jquery.i18n/libs/CLDRPluralRuleParser" />
     </ignored-roots>
-    <MESSAGE value="First" />
     <MESSAGE value="v0.2" />
     <MESSAGE value="v0.3" />
     <MESSAGE value="v0.5" />
@@ -784,7 +789,8 @@
     <MESSAGE value="v0.27" />
     <MESSAGE value="v0.28" />
     <MESSAGE value="v0.29" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.29" />
+    <MESSAGE value="v0.31" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.31" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/img/header.jpg">
@@ -1009,8 +1015,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+        <state relative-caret-position="191">
+          <caret line="38" column="54" selection-end-line="678" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
