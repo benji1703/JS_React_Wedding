@@ -4,8 +4,8 @@ Site for our wedding (WOOWOOO)
 
 ## How it's been made?
 
-#Written with JS, HTML (using bootstrap4 and JQuery) and React (for countdown)
-#Hosted on Netlify
+# Written with JS, HTML (using bootstrap4 and JQuery) and React (for countdown)
+# Hosted on Netlify
 
 ### Installing
 
