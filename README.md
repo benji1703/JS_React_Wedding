@@ -1,4 +1,4 @@
-# Project Title
+# Keshet and Benji's wedding
 
 Site for our wedding (WOOWOOO)
 
