@@ -180,7 +180,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background: url("../img/header2.jpg.jpeg") center center;
+  background: url("../img/header2.jpg") center center;
   background-size: cover;
 }
 
