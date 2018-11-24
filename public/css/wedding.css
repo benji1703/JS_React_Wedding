@@ -323,4 +323,12 @@ a.nav-link-img {
   border-radius: 50%;
 }
 
+.modal-dialog{
+  overflow-y: initial !important
+}
+.modal-body{
+  height: 250px;
+  overflow-y: auto;
+}
+
 

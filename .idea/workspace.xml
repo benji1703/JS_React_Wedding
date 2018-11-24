@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45fb2e3b-cee6-4157-93f9-f335b6d85575" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/css/wedding.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/wedding.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -80,7 +80,7 @@
     <session id="-1702134578">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -94,7 +94,7 @@
           <entry key="html" value="1357" />
           <entry key="js" value="219" />
           <entry key="json" value="998" />
-          <entry key="txt" value="8" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -103,7 +103,7 @@
           <entry key="HTML" value="1357" />
           <entry key="JSON" value="998" />
           <entry key="JavaScript" value="219" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -131,25 +131,27 @@
     <session id="-780341783">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="css" value="2" />
           <entry key="html" value="76" />
           <entry key="json" value="44" />
           <entry key="md" value="207" />
-          <entry key="txt" value="4" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="CSS" value="2" />
           <entry key="HTML" value="76" />
           <entry key="JSON" value="44" />
-          <entry key="PLAIN_TEXT" value="211" />
+          <entry key="PLAIN_TEXT" value="214" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="4" />
+          <entry key="CSS" value="5" />
           <entry key="HTML" value="1" />
-          <entry key="JSON" value="2" />
+          <entry key="JSON" value="3" />
           <entry key="JavaScript" value="5" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="SCSS" value="4" />
@@ -159,10 +161,10 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="LICENSE" value="1" />
-          <entry key="css" value="4" />
+          <entry key="css" value="5" />
           <entry key="html" value="1" />
           <entry key="js" value="5" />
-          <entry key="json" value="2" />
+          <entry key="json" value="3" />
           <entry key="md" value="1" />
           <entry key="scss" value="4" />
           <entry key="svg" value="1" />
@@ -171,11 +173,14 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
     </session>
@@ -185,11 +190,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#29443#29449#0" expanded="true" />
+                <element signature="e#30109#30116#1" expanded="true" />
+                <element signature="e#31390#31397#1" expanded="true" />
+                <element signature="e#32590#32597#1" expanded="true" />
+                <element signature="e#33798#33805#1" expanded="true" />
+                <element signature="e#35026#35033#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/lang/he.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="410" selection-start-line="9" selection-start-column="410" selection-end-line="9" selection-end-column="410" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/wedding.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="182" column="37" selection-start-line="182" selection-start-column="37" selection-end-line="182" selection-end-column="37" />
+            <state relative-caret-position="602">
+              <caret line="331" column="1" selection-start-line="331" selection-start-column="1" selection-end-line="331" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -266,7 +307,6 @@
         <option value="$PROJECT_DIR$/public/lang/index.html" />
         <option value="$PROJECT_DIR$/public/lang/fr.json" />
         <option value="$PROJECT_DIR$/public/lang/en.json" />
-        <option value="$PROJECT_DIR$/public/lang/he.json" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/public/lang/setLanguage.js" />
         <option value="$PROJECT_DIR$/public/cal/createCal.js" />
@@ -276,6 +316,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/public/package.json" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/lang/he.json" />
         <option value="$PROJECT_DIR$/public/css/wedding.css" />
       </list>
     </option>
@@ -288,6 +329,7 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/public/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -297,10 +339,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="x" value="5" />
+    <option name="y" value="-20" />
+    <option name="width" value="2580" />
+    <option name="height" value="1410" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -308,6 +350,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -320,11 +363,16 @@
               <item name="JS_React_Wedding" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JS_React_Wedding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_React_Wedding" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,119 +389,6 @@
       <recent name="C:\Users\Benjamin\Documents\GitHub\JS_React_Wedding\public\lang" />
       <recent name="C:\Users\Benjamin\Documents\GitHub\JS_React_Wedding\public\lng" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/css/wedding.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/index.html</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/public/img/header2.jpg.jpeg</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -511,6 +446,10 @@
       <workItem from="1541407803131" duration="805000" />
       <workItem from="1541408874728" duration="145000" />
       <workItem from="1541664842618" duration="1348000" />
+      <workItem from="1541877909327" duration="635000" />
+      <workItem from="1542230115104" duration="2001000" />
+      <workItem from="1542232362384" duration="641000" />
+      <workItem from="1543066056536" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="v0.2">
       <created>1538929255884</created>
@@ -708,17 +647,45 @@
       <option name="project" value="LOCAL" />
       <updated>1541408346377</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="v0.41">
+      <created>1541846295353</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1541846295354</updated>
+    </task>
+    <task id="LOCAL-00030" summary="v0.42">
+      <created>1542231334308</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1542231334308</updated>
+    </task>
+    <task id="LOCAL-00031" summary="v0.43">
+      <created>1542231952542</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1542231952542</updated>
+    </task>
+    <task id="LOCAL-00032" summary="v0.44">
+      <created>1542232532593</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1542232532593</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67209000" />
+    <option name="totallyTimeSpent" value="70705000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4927798" visible="true" weight="0.23122677" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4927798" visible="true" weight="0.21679012" />
       <window_info id="Structure" order="1" sideWeight="0.5072202" side_tool="true" weight="0.23122677" />
       <window_info id="Favorites" order="2" sideWeight="0.50076103" side_tool="true" weight="0.24938272" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -729,8 +696,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.37962037" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.1878122" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.22163865" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.1869748" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -794,10 +761,6 @@
       <path value="$PROJECT_DIR$/jquery.i18n" />
       <path value="$PROJECT_DIR$/jquery.i18n/libs/CLDRPluralRuleParser" />
     </ignored-roots>
-    <MESSAGE value="v0.7" />
-    <MESSAGE value="v0.8" />
-    <MESSAGE value="v0.9" />
-    <MESSAGE value="v0.10" />
     <MESSAGE value="v0.11" />
     <MESSAGE value="v0.13" />
     <MESSAGE value="v0.14" />
@@ -819,7 +782,11 @@
     <MESSAGE value="v0.33" />
     <MESSAGE value="v0.34" />
     <MESSAGE value="v0.36" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.36" />
+    <MESSAGE value="v0.41" />
+    <MESSAGE value="v0.42" />
+    <MESSAGE value="v0.43" />
+    <MESSAGE value="v0.44" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.44" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/img/header.jpg">
@@ -902,13 +869,6 @@
     <entry file="file://$PROJECT_DIR$/public/js/wedding.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="4" selection-start-line="8" selection-start-column="25" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -916,13 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1487">
           <caret line="122" column="56" lean-forward="true" selection-start-line="122" selection-start-column="56" selection-end-line="122" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/lang/he.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1033,24 +986,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="420" column="119" selection-start-line="420" selection-start-column="119" selection-end-line="420" selection-end-column="119" />
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#29393#29399#0" expanded="true" />
-            <element signature="e#30059#30066#1" expanded="true" />
-            <element signature="e#31340#31347#1" expanded="true" />
-            <element signature="e#32540#32547#1" expanded="true" />
-            <element signature="e#33748#33755#1" expanded="true" />
-            <element signature="e#34976#34983#1" expanded="true" />
+            <element signature="e#29443#29449#0" expanded="true" />
+            <element signature="e#30109#30116#1" expanded="true" />
+            <element signature="e#31390#31397#1" expanded="true" />
+            <element signature="e#32590#32597#1" expanded="true" />
+            <element signature="e#33798#33805#1" expanded="true" />
+            <element signature="e#35026#35033#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lang/he.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="410" selection-start-line="9" selection-start-column="410" selection-end-line="9" selection-end-column="410" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/wedding.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="182" column="37" selection-start-line="182" selection-start-column="37" selection-end-line="182" selection-end-column="37" />
+        <state relative-caret-position="602">
+          <caret line="331" column="1" selection-start-line="331" selection-start-column="1" selection-end-line="331" selection-end-column="1" />
         </state>
       </provider>
     </entry>
