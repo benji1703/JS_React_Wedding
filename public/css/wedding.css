@@ -323,10 +323,8 @@ a.nav-link-img {
   border-radius: 50%;
 }
 
-.modal-dialog{
-  overflow-y: initial !important
-}
 .modal-body{
+  max-height: calc(100vh - 200px);
   overflow-y: auto;
 }
 
