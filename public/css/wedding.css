@@ -328,4 +328,8 @@ a.nav-link-img {
   overflow-y: auto;
 }
 
+.text-shadow {
+  text-shadow: -1px 0 #99917A, 0 1px #99917A, 1px 0 #99917A, 0 -1px #99917A;
+}
+
 

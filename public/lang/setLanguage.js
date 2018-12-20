@@ -1,4 +1,4 @@
-let langs = ['en','fr','he'];
+// let langs = ['en','fr','he'];
 let langCode;
 
 let translate = function (jsdata)
@@ -10,27 +10,28 @@ let translate = function (jsdata)
     });
 };
 
-function changeToHeb() {
-    localStorage.lang = "he";
-    location.reload();
-}
-function changeToEn() {
-    localStorage.lang = "en";
-    location.reload();
-}
+// function changeToHeb() {
+//     localStorage.lang = "he";
+//     location.reload();
+// }
+// function changeToEn() {
+//     localStorage.lang = "en";
+//     location.reload();
+// }
+//
+// function changeToFr() {
+//     localStorage.lang = "fr";
+//     location.reload();
+// }
 
-function changeToFr() {
-    localStorage.lang = "fr";
-    location.reload();
-}
+// langCode = localStorage.getItem('lang') || 'he';
+langCode = 'he';
 
-langCode = localStorage.getItem('lang') || 'he';
-
-if (langs.includes(langCode)) {
-    $.getJSON('lang/' + langCode + '.json', translate);
-}
-else {
+// if (langs.includes(langCode)) {
+//     $.getJSON('lang/' + langCode + '.json', translate);
+// }
+// else {
     $.getJSON('lang/he.json', translate);
-}
+// }
 
 
