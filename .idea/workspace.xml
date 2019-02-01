@@ -1,9 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45fb2e3b-cee6-4157-93f9-f335b6d85575" name="Default Changelist" comment="">
+    <list default="true" id="45fb2e3b-cee6-4157-93f9-f335b6d85575" name="Default Changelist" comment="v0.46">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/wedding.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/wedding.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/android-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android-icon-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/android-icon-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android-icon-36x36.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/android-icon-36x36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android-icon-48x48.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/android-icon-48x48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/android-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android-icon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/android-icon-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-icon-114x114.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-icon-114x114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-icon-120x120.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-icon-120x120.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-icon-152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-icon-152x152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-icon-180x180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-icon-57x57.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-icon-57x57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-icon-60x60.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-icon-60x60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-icon-76x76.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-icon-76x76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ms-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/ms-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ms-icon-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/ms-icon-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ms-icon-310x310.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/ms-icon-310x310.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ms-icon-70x70.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/ms-icon-70x70.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,178 +42,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="267897322">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="8" />
-          <entry key="HTML" value="3" />
-          <entry key="Image" value="1" />
-          <entry key="JSON" value="9" />
-          <entry key="JavaScript" value="16" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="SCSS" value="9" />
-          <entry key="SVG" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="LICENSE" value="1" />
-          <entry key="css" value="8" />
-          <entry key="html" value="3" />
-          <entry key="ics" value="1" />
-          <entry key="jpg" value="1" />
-          <entry key="js" value="16" />
-          <entry key="json" value="9" />
-          <entry key="scss" value="9" />
-          <entry key="svg" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="74" />
-          <entry key="HTML" value="1208" />
-          <entry key="JSON" value="173" />
-          <entry key="JavaScript" value="8" />
-          <entry key="PLAIN_TEXT" value="34" />
-          <entry key="SCSS" value="39" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="74" />
-          <entry key="html" value="1208" />
-          <entry key="ics" value="2" />
-          <entry key="js" value="8" />
-          <entry key="json" value="173" />
-          <entry key="scss" value="39" />
-          <entry key="txt" value="32" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1702134578">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="73" />
-          <entry key="html" value="1357" />
-          <entry key="js" value="219" />
-          <entry key="json" value="998" />
-          <entry key="txt" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="73" />
-          <entry key="HTML" value="1357" />
-          <entry key="JSON" value="998" />
-          <entry key="JavaScript" value="219" />
-          <entry key="PLAIN_TEXT" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="2" />
-          <entry key="html" value="1" />
-          <entry key="jpg" value="2" />
-          <entry key="js" value="6" />
-          <entry key="json" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="2" />
-          <entry key="HTML" value="1" />
-          <entry key="Image" value="2" />
-          <entry key="JSON" value="6" />
-          <entry key="JavaScript" value="5" />
-          <entry key="Scratch" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.js.language.service.starts" />
-    </session>
-    <session id="-780341783">
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="14" />
-          <entry key="html" value="76" />
-          <entry key="json" value="44" />
-          <entry key="md" value="207" />
-          <entry key="txt" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="14" />
-          <entry key="HTML" value="76" />
-          <entry key="JSON" value="44" />
-          <entry key="PLAIN_TEXT" value="216" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="5" />
-          <entry key="HTML" value="1" />
-          <entry key="JSON" value="3" />
-          <entry key="JavaScript" value="5" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="SCSS" value="4" />
-          <entry key="SVG" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="LICENSE" value="1" />
-          <entry key="css" value="5" />
-          <entry key="html" value="1" />
-          <entry key="js" value="5" />
-          <entry key="json" value="3" />
-          <entry key="md" value="1" />
-          <entry key="scss" value="4" />
-          <entry key="svg" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="JS_React_Wedding" />
   </component>
@@ -194,17 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="n#style#0;n#iframe#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#29443#29449#0" expanded="true" />
-                <element signature="e#30109#30116#1" expanded="true" />
-                <element signature="e#31390#31397#1" expanded="true" />
-                <element signature="e#32590#32597#1" expanded="true" />
-                <element signature="e#33798#33805#1" expanded="true" />
-                <element signature="e#35026#35033#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="207">
+              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -212,17 +59,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/lang/he.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="410" selection-start-line="9" selection-start-column="410" selection-end-line="9" selection-end-column="410" />
+            <state relative-caret-position="115">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/android-icon-36x36.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/android-icon-48x48.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/wedding.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="324" lean-forward="true" selection-start-line="324" selection-end-line="324" />
+            <state relative-caret-position="7452">
+              <caret line="324" selection-start-line="324" selection-end-line="324" />
             </state>
           </provider>
         </entry>
@@ -247,7 +104,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Proposal</find>
       <find>auto</find>
       <find>modal</find>
       <find>hands-helpin</find>
@@ -277,6 +133,7 @@
       <find>header.j</find>
       <find>services</find>
       <find>header2</find>
+      <find>החתונה של</find>
     </findStrings>
     <replaceStrings>
       <replace>99917A</replace>
@@ -317,30 +174,13 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/public/package.json" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/public/lang/he.json" />
         <option value="$PROJECT_DIR$/public/css/wedding.css" />
+        <option value="$PROJECT_DIR$/public/lang/he.json" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-    <handled-path value="$PROJECT_DIR$/public/node_modules" />
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
-      <path value="$PROJECT_DIR$/public/package.json" />
-      <path value="$PROJECT_DIR$/public/vendor/fontawesome-free/package.json" />
-    </packageJsonPaths>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1272" />
     <option name="width" value="1297" />
     <option name="height" value="1398" />
   </component>
@@ -357,6 +197,11 @@
             <path>
               <item name="JS_React_Wedding" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS_React_Wedding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS_React_Wedding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_React_Wedding" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -392,7 +237,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
@@ -439,6 +284,10 @@
       <workItem from="1542230115104" duration="2001000" />
       <workItem from="1542232362384" duration="641000" />
       <workItem from="1543066056536" duration="1417000" />
+      <workItem from="1544280060856" duration="3550000" />
+      <workItem from="1544786990870" duration="58000" />
+      <workItem from="1545505632638" duration="180000" />
+      <workItem from="1549010930623" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="v0.2">
       <created>1538929255884</created>
@@ -678,29 +527,35 @@
       <option name="project" value="LOCAL" />
       <updated>1543066592110</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="v0.50">
+      <created>1545505705404</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1545505705405</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72111000" />
+    <option name="totallyTimeSpent" value="76228000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1037" height="1118" extended-state="0" />
-    <editor active="true" />
+    <frame x="1018" y="0" width="1037" height="1118" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4927798" visible="true" weight="0.439" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4927798" visible="true" weight="0.586" />
       <window_info id="Structure" order="1" sideWeight="0.5072202" side_tool="true" weight="0.23122677" />
       <window_info id="Favorites" order="2" sideWeight="0.50076103" side_tool="true" weight="0.24938272" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32819074" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3057769" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30439442" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.22351696" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.18644068" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.22508039" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.18624339" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -755,16 +610,26 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/jquery.i18n" />
       <path value="$PROJECT_DIR$/jquery.i18n/libs/CLDRPluralRuleParser" />
     </ignored-roots>
-    <MESSAGE value="v0.14" />
     <MESSAGE value="v0.15" />
     <MESSAGE value="v0.16" />
     <MESSAGE value="v0.17" />
@@ -789,7 +654,8 @@
     <MESSAGE value="v0.44" />
     <MESSAGE value="v0.45" />
     <MESSAGE value="v0.46" />
-    <option name="LAST_COMMIT_MESSAGE" value="v0.46" />
+    <MESSAGE value="v0.50" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.50" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/img/header.jpg">
@@ -989,24 +855,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#29443#29449#0" expanded="true" />
-            <element signature="e#30109#30116#1" expanded="true" />
-            <element signature="e#31390#31397#1" expanded="true" />
-            <element signature="e#32590#32597#1" expanded="true" />
-            <element signature="e#33798#33805#1" expanded="true" />
-            <element signature="e#35026#35033#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="207">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/lang/he.json">
+    <entry file="file://$PROJECT_DIR$/public/css/wedding.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="410" selection-start-line="9" selection-start-column="410" selection-end-line="9" selection-end-column="410" />
+        <state relative-caret-position="7452">
+          <caret line="324" selection-start-line="324" selection-end-line="324" />
         </state>
       </provider>
     </entry>
@@ -1017,12 +874,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/wedding.css">
+    <entry file="file://$PROJECT_DIR$/public/lang/he.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="324" lean-forward="true" selection-start-line="324" selection-end-line="324" />
+        <state relative-caret-position="115">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/android-icon-48x48.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/android-icon-36x36.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
